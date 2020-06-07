@@ -9,11 +9,13 @@ redirect_from:
 ---
 
 I'm an applied scientist at AWS AI, where I'm working on [Deep Graph Library](https://www.dgl.ai/)
-and [DGL-KE](https://github.com/awslabs/dgl-ke) to develop efficient and scalable frameworks
-for graph neural networks and knowledge graphs.
-My research interest covers multiple areas, ranging from high-performance computing,
-filesystem, large-scale data analysis systems, and machine learning. I got a PhD from
-the department of computer science at the Johns Hopkins University.
+and [DGL-KE](https://github.com/awslabs/dgl-ke) for graph neural networks and knowledge graphs.
+My research interest covers areas, ranging from high-performance computing,
+large-scale data analysis systems, and machine learning. I got a PhD from
+the department of computer science at the Johns Hopkins University. During my PhD,
+I worked on [FlashGraph](https://github.com/flashxio/FlashX) and
+[FlashR](https://github.com/flashxio/FlashR), frameworks for large-scale graph analysis
+and data analysis on solid-state drives (SSDs).
 
 Selected Publications
 =====
