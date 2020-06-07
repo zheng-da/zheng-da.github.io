@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 I'm an applied scientist at AWS AI, where I'm working on [Deep Graph Library](https://www.dgl.ai/)
-and [DGL-KE](https://github.com/awslabs/dgl-ke).
+and [DGL-KE](https://github.com/awslabs/dgl-ke) to develop efficient and scalable frameworks
+for graph neural networks and knowledge graphs.
 My research interest covers multiple areas, ranging from high-performance computing,
 filesystem, large-scale data analysis systems, and machine learning. I got a PhD from
 the department of computer science at the Johns Hopkins University.
@@ -18,7 +19,7 @@ Selected Publications
 =====
 * **Da Zheng**, Xiang Song, Chao Ma, Zeyuan Tan, Zihao Ye, Jin Dong, Hao Xiong, Zheng Zhang, George Karypis,
 	DGL-KE: Training knowledge graph embeddings at scale,
-	SIGIR 2020 [pdf](https://arxiv.org/pdf/2004.08532.pdf)
+	in SIGIR 2020 [pdf](https://arxiv.org/pdf/2004.08532.pdf)
  
 * Qi Zhu, Hao Wei, Bunyamin Sisman, **Da Zheng**, Christos Faloutsos, Xin Luna Dong, Jiawei Han,
 	Collective Multi-type Entity Alignment Between Knowledge Graphs,

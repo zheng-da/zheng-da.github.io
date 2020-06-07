@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Da Zheng / personal website"
+title                    : "Da Zheng's personal website"
 title_separator          : "-"
 name                     : &name "Da Zheng"
 description              : &description "I'm an applied scientist at AWS AI"
