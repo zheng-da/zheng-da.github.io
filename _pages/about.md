@@ -23,7 +23,7 @@ Selected Publications
  
 * Qi Zhu, Hao Wei, Bunyamin Sisman, **Da Zheng**, Christos Faloutsos, Xin Luna Dong, Jiawei Han,
 	Collective Multi-type Entity Alignment Between Knowledge Graphs,
-	The Web Conference 2020 [pdf](https://dl.acm.org/doi/abs/10.1145/3366423.3380289)
+	in the Web Conference 2020 [pdf](https://dl.acm.org/doi/abs/10.1145/3366423.3380289)
 
 * Minjie Wang, Lingfan Yu, **Da Zheng**, Quan Gan, Yu Gai, Zihao Ye, Mufei Li, Jinjing Zhou, Qi Huang, Chao Ma, Ziyue Huang, Qipeng Guo, Hao Zhang, Haibin Lin, Junbo Zhao, Jinyang Li, Alexander Smola, Zheng Zhang,
 	Deep graph library: Towards efficient and scalable deep learning on graphs,
@@ -31,19 +31,19 @@ Selected Publications
 
 * **Da Zheng**, Disa Mhembere, Joshua Vogelstein, Carey E. Priebe, Randal Burns,
 	FlashR: parallelize and scale R for machine learning using SSDs,
-	PPoPP 2018 [pdf](https://dl.acm.org/doi/abs/10.1145/3178487.3178501)
+	in PPoPP 2018 [pdf](https://dl.acm.org/doi/abs/10.1145/3178487.3178501)
 
 * Disa Mhembere, **Da Zheng**, Carey E Priebe, Joshua T Vogelstein, Randal Burns,
 	knor: A NUMA-optimized in-memory, distributed and semi-external-memory k-means library,
-	HPDC 2017
+	in HPDC 2017 [pdf](https://arxiv.org/pdf/1606.08905.pdf)
 
 * **Da Zheng**, Disa Mhembere, Vince Lyzinski, Joshua Vogelstein, Carey E. Priebe, Randal Burns,
 	Semi-External Memory Sparse Matrix Multiplication on Billion-node Graphs in a Multicore Architecture,
-	Transactions on Parallel and Distributed Systems, 2017
+	in Transactions on Parallel and Distributed Systems, 2017 [pdf](https://arxiv.org/pdf/1602.02864.pdf)
 
 * Heng Wang, **Da Zheng**, Randal Burns, Carey Priebe,
 	Active Community Detection in Massive Graphs,
-	SDM-Networks 2015 [pdf]
+	in SDM-Networks 2015 [pdf]
 
 * **Da Zheng**, Disa Mhembere, Randal Burns, Joshua Vogelstein, Carey Priebe, Alexander S. Szalay,
 	FlashGraph: Processing Billion-Node Graphs on an Array of Commodity SSDs,
