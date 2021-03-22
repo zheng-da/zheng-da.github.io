@@ -19,6 +19,18 @@ and data analysis on solid-state drives (SSDs).
 
 Selected Publications
 =====
+* Balasubramaniam Srinivasan, **Da Zheng**, George Karypis,
+	Learning over Families of Sets -- Hypergraph Representation Learning for Higher Order Tasks,
+	SDM 2021 [pdf](https://arxiv.org/abs/2101.07773)
+
+* **Da Zheng**, Chao Ma, Minjie Wang, Jinjing Zhou, Qidong Su, Xiang Song, Quan Gan, Zheng Zhang, George Karypis,
+	DistDGL: Distributed Graph Neural Network Training for Billion-Scale Graphs,
+	arXiv:2010.05337, 2020 [pdf](https://arxiv.org/abs/2010.05337)
+
+* Yuwei Hu, Zihao Ye, Minjie Wang, Jiali Yu, **Da Zheng**, Mu Li, Zheng Zhang, Zhiru Zhang, Yida Wang,
+	Featgraph: A flexible and efficient backend for graph neural network systems,
+	in SC 2020 [pdf](https://arxiv.org/abs/2008.11359)
+
 * **Da Zheng**, Xiang Song, Chao Ma, Zeyuan Tan, Zihao Ye, Jin Dong, Hao Xiong, Zheng Zhang, George Karypis,
 	DGL-KE: Training knowledge graph embeddings at scale,
 	in SIGIR 2020 [pdf](https://arxiv.org/pdf/2004.08532.pdf)
