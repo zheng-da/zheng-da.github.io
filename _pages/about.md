@@ -30,6 +30,10 @@ Selected Publications
 * Yuwei Hu, Zihao Ye, Minjie Wang, Jiali Yu, **Da Zheng**, Mu Li, Zheng Zhang, Zhiru Zhang, Yida Wang,
 	Featgraph: A flexible and efficient backend for graph neural network systems,
 	in SC 2020 [pdf](https://arxiv.org/abs/2008.11359)
+	
+* Vassilis N Ioannidis, Da Zheng, George Karypis,
+	PanRep: Universal node embeddings for heterogeneous graphs,
+	arXiv:2007.10445, 2020 [pdf](https://arxiv.org/abs/2007.10445)
 
 * **Da Zheng**, Xiang Song, Chao Ma, Zeyuan Tan, Zihao Ye, Jin Dong, Hao Xiong, Zheng Zhang, George Karypis,
 	DGL-KE: Training knowledge graph embeddings at scale,
